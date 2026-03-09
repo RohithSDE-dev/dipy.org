@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.6.0 is now available!
+============================
+
+:date: 2022-11-25
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.6.0:
+====================
+* **NF: Reorient** - New tools for image and gradient reorientation.
+* **NF: Gibbs Unringing** - Advanced artifact removal in MRI.

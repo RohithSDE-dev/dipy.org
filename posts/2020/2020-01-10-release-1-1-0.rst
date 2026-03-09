@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.1.0 is now available!
+============================
+
+:date: 2020-01-10
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.1.0:
+====================
+* **NF: LPCA & MPPCA** - Advanced denoising methods for better image quality.
+* **Cleanup:** Removed all remaining Python 2 code.

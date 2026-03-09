@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.7.0 is now available!
+============================
+
+:date: 2023-04-14
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.7.0:
+====================
+* **NF: SLANT** - Deep learning for whole-brain segmentation.
+* **NF: SynRegistration** - Symmetric Normalization for image registration.

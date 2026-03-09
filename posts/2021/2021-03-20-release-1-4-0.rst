@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.4.0 is now available!
+============================
+
+:date: 2021-03-20
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.4.0:
+====================
+* **NF: Patch2Self** - A self-supervised denoising method for dMRI.
+* **NF: DKI-Free Water** - Added free water elimination for Diffusion Kurtosis Imaging.

@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.2.0 is now available!
+============================
+
+:date: 2020-06-25
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.2.0:
+====================
+* **NF: Horizon** - Initial release of the "Horizon" visualizer for interactive data exploration.
+* **NF: AFQ** - Integration with Automated Fiber Quantification.

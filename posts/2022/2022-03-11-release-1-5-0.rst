@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.5.0 is now available!
+============================
+
+:date: 2022-03-11
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.5.0:
+====================
+* **NF: Tracking** - Fixed issues in probabilistic tracking and direction getters.
+* **NF: Command Line** - Improved the DIPY Horizon command-line interface.

@@ -1,0 +1,14 @@
+:orphan:
+
+============================
+DIPY 1.4.1 is now available!
+============================
+
+:date: 2021-04-13
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.4.1:
+====================
+* Fixed issues with the build system and wheels for Python 3.9.
+* Updated documentation for the registration module.

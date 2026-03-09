@@ -1,0 +1,15 @@
+:orphan:
+
+============================
+DIPY 1.9.0 is now available!
+============================
+
+:date: 2024-03-08
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.9.0:
+====================
+* **Numpy 2.0.0 support** - Compatibility with the latest major Numpy version.
+* **NF: DeepN4** - A novel deep learning-based N4 bias correction method.
+* **Cleanup:** Support for Python 3.8 has been removed.

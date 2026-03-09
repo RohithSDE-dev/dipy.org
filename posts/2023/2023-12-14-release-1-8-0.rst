@@ -1,0 +1,15 @@
+:orphan:
+
+============================
+DIPY 1.8.0 is now available!
+============================
+
+:date: 2023-12-14
+:author: Eleftherios Garyfallidis
+:category: Release
+
+Highlights of 1.8.0:
+====================
+* **NF: Horizon** - Interactive visualization for large datasets.
+* **NF: BUAN** - Bundle Analytics for population analysis.
+* **Maintenance:** Support for Python 3.12 and various bug fixes.
